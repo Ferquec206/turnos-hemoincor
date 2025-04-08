@@ -1,5 +1,5 @@
 // Código actualizado sin rutas alias para compatibilidad en Vercel
-
+import React from 'react';
 import { useState } from "react";
 import { format, subDays } from "date-fns";
 
