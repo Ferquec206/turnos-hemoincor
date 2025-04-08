@@ -2,7 +2,7 @@
 import React from 'react';
 import { useState } from "react";
 import { format, subDays } from "date-fns";
-
+import "../index.css"; 
 const diasDobleSala = [2, 4]; // Martes (2) y Jueves (4)
 
 function generarTurnos(fecha) {
